@@ -1,4 +1,4 @@
-name: CCR
+name: GTR
 channels:
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
   - defaults
