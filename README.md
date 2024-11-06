@@ -2,8 +2,7 @@
 
 
 ## dataset
-'conda env create -f environment.yml'
-`let x = 5;`
+`conda env create -f environment.yml`
 ## create env
 
 ## model
