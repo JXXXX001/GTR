@@ -2,7 +2,8 @@
 
 
 ## dataset
-The dataset can be download at 
+The part of hard dataset samples can be got at file hard.
+The other dataset can be download at 
 ## create env
 You can create env by using the follow code.
 `conda env create -f environment.yml`
